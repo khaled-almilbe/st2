@@ -78,7 +78,10 @@
 #zuck-modal-content .story-viewer .head .time{opacity:0.75;font-weight:500;font-size:13px;}
 #zuck-modal-content .story-viewer .head .left{line-height: 1 !important;display:inline-block;margin:6px 0;}
 #zuck-modal-content .story-viewer .head .left > div{display:inline-block;max-width:30vw;vertical-align:middle;}
-#zuck-modal-content .story-viewer .head .left > div > *{width:100%;display:inline-block;line-height:21px;}
+#zuck-modal-content .story-viewer .head .left > div > *{width: 142%;
+    display: inline-block;
+    line-height: 23px;
+    text-align: center;}
 #zuck-modal-content .story-viewer .head .left > div > strong {font-weight: 500;}
 #zuck-modal-content .story-viewer .head .right{float:left;}
 #zuck-modal-content .story-viewer .head .right .close, #zuck-modal-content .story-viewer .head .back {font-size:42px;width:48px;cursor: pointer;text-align:center;}

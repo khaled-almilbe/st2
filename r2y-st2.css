@@ -80,7 +80,7 @@
 #zuck-modal-content .story-viewer .head .left > div{display:inline-block;max-width:30vw;vertical-align:middle;}
 #zuck-modal-content .story-viewer .head .left > div > *{width:100%;display:inline-block;line-height:21px;}
 #zuck-modal-content .story-viewer .head .left > div > strong {font-weight: 500;}
-#zuck-modal-content .story-viewer .head .right{float:right;}
+#zuck-modal-content .story-viewer .head .right{float:left;}
 #zuck-modal-content .story-viewer .head .right .close, #zuck-modal-content .story-viewer .head .back {font-size:42px;width:48px;cursor: pointer;text-align:center;}
 #zuck-modal-content .story-viewer .head .left > .back {display: none; width:24px; margin:-6px -6px 0 -6px}
 #zuck-modal-content .story-viewer .head .right .time {display:none;}

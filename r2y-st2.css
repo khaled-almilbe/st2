@@ -10,7 +10,7 @@
 .stories.carousel .story:first-child{margin-left:0;}
 .stories.carousel .story:last-child{margin-right:8;}
 
-.stories.carousel .story > a {display:block;}
+.stories.carousel .story > a {text-align:center;display:block;}
 .stories.carousel .story > a:active > .img {transform: scale(0.9);}
 .stories.carousel .story > a > .img {display:block;box-sizing:border-box;font-size:0;max-height:90px;height:18vw;overflow:hidden;transition: transform 0.2s;}
 .stories.carousel .story > a > .img > * {display:block;box-sizing:border-box;height:100%;width:100%;background-size:cover;background-position: center;}
@@ -22,7 +22,7 @@
 .stories.list{white-space:nowrap;overflow:auto;}
 .stories.list .story{display: block;width: auto;margin: 6px;padding-bottom:6px;}
     
-.stories.list .story > a {display:block;}
+.stories.list .story > a {text-align:left;display:block;}
 .stories.list .story > a > .img {height:42px;width:42px;max-width:42px;margin-right: 12px;vertical-align: top;display:inline-block;box-sizing:border-box;font-size:0;overflow:hidden}
 .stories.list .story > a > .img > * {display:block;box-sizing:border-box;height:100%;width:100%;background-size:cover;background-position: center;}
 .stories.list .story > a > .info {display:inline-block;line-height:1.6em;overflow:hidden;text-overflow:ellipsis;vertical-align: top;}
